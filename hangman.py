@@ -136,3 +136,4 @@ class Hangman:
 if __name__ == "__main__":
     h = Hangman()
     h.main()
+
